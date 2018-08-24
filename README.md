@@ -1,2 +1,2 @@
 # pytic-pytac-pytoe
-A simple tic tac toe game made using python.
+A simple text-based tic-tac-toe game made using python.
